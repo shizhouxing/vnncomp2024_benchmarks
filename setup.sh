@@ -1,4 +1,4 @@
-set -e
+#set -e
 
 wget https://rwth-aachen.sciebo.de/s/RapAoed1dxG1PMs/download -O large_models.zip
 unzip large_models.zip -d large_models
